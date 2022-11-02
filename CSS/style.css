@@ -10,8 +10,23 @@ h1{
 .quadrato{
     height: 100%;
     aspect-ratio: 1/1;
-    background-color: white;
     position: relative;
+}
+
+.blu{
+    background-color: blue;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+.rosso{
+    background-color: red;
+}
+
+.verde{
+    background-color: green;
 }
 
 .quadrato span{
