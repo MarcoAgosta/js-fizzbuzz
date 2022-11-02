@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    color: white;
+    font-size: 90px;
+}
+
+.quadrato{
+    height: 100%;
+    aspect-ratio: 1/1;
+    background-color: white;
+    position: relative;
+}
+
+.quadrato span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
